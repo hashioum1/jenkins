@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2026-04-12 19:32:27.962 UTC</timestamp>
+  <md5sum>bd4b09a31ae065d3a96412e8e2cc1de3</md5sum>
+  <fileName>Credential id=MYSQL_PASSWORD name=MYSQL_PASSWORD</fileName>
+  <usages>
+    <entry>
+      <string>backup-to-aws</string>
+      <ranges>1-10</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

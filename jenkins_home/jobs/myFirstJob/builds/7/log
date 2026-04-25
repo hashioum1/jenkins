@@ -1,0 +1,10 @@
+Started by user [8mha:////4LxqjhIJQV4PFROf/djRm0CKkuxHncuhkmJnJFHLnlvQAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZu/dLi1CL9xJTczDwAcQdo88AAAAA=[0mHashim Jenkins
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/myFirstJob
+[myFirstJob] $ /bin/sh -xe /tmp/jenkins11383071530262979792.sh
++ NAME=Hashim
++ date
++ echo Hi Hashim, the current time and date is Fri Apr 10 21:53:08 UTC 2026
++ /tmp/script.sh Hashioum Korbani true
+Hello Hashioum Korbani ..
+Finished: SUCCESS

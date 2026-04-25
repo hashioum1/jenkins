@@ -1,0 +1,25 @@
+Started by user [8mha:////4LxqjhIJQV4PFROf/djRm0CKkuxHncuhkmJnJFHLnlvQAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZu/dLi1CL9xJTczDwAcQdo88AAAAA=[0mHashim Jenkins
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/mySecondJob
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/jenkins_home/workspace/mySecondJob/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/devopsjourney1/jenkins-101 # timeout=10
+Fetching upstream changes from https://github.com/devopsjourney1/jenkins-101
+ > git --version # timeout=10
+ > git --version # 'git version 2.47.3'
+ > git fetch --tags --force --progress -- https://github.com/devopsjourney1/jenkins-101 +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 36f0b8984e2ba97b17b26c91d50b53632ea12075 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 36f0b8984e2ba97b17b26c91d50b53632ea12075 # timeout=10
+Commit message: "install python"
+ > git rev-list --no-walk 36f0b8984e2ba97b17b26c91d50b53632ea12075 # timeout=10
+[mySecondJob] $ /bin/sh -xe /tmp/jenkins14958092865686806349.sh
++ echo Hello Python
+Hello Python
++ python3 helloworld.py
+/tmp/jenkins14958092865686806349.sh: 3: python3: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
