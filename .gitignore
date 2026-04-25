@@ -15,3 +15,11 @@ data/
 node_modules/
 __pycache__/
 *.pyc
+
+# Docker volumes / heavy data
+db_data/
+jenkins_home/
+
+# Ansible stuff (if not needed)
+
+# jenkins_ansible/
