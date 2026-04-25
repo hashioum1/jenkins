@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Docker volumes / data
+volumes/
+data/
+
+# Image exports
+*.tar
+
+# OS junk
+.DS_Store
+
+# Dependency folders
+node_modules/
+__pycache__/
+*.pyc
