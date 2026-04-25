@@ -1,0 +1,7 @@
+Started by user [8mha:////4OwpSzfm6Hr+1PL7K9kmX5yNAaOIO5BB/d0Y4TnlUFwGAAAAph+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgYp/dLi1CL9jMTijMzc5Pzcgvzi1KSixLzkDCMAj6bayc8AAAA=[0mHashim Jenkins Compose Branch 2
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/firstComm
+[firstComm] $ /bin/sh -xe /tmp/jenkins12606294433238675078.sh
++ echo Hashim
+Hashim
+Finished: SUCCESS
